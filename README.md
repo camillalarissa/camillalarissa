@@ -3,7 +3,7 @@
 
 
 - 🔭 Sou desenvolvedora Front-End.
-- 🌱 Estou me aperfeiçoando em HTML, CSS, JAVASCRIPT, GITHUB,FIGMA.
+- 🌱 Estou me aperfeiçoando em HTML, CSS, JAVASCRIPT, GITHUB e FIGMA.
 
 
 <div>
