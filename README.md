@@ -1,17 +1,17 @@
 ### Olá! Meu nome é Camilla 👋
 
-Perfil Profissional
+<h3>Perfil Profissional</h3>
 👩‍💻 Desenvolvedora Front-end Júnior
 
 🚀 Apaixonada por tecnologia e comprometida com a criação de interfaces.
 
-Tecnologias
+<h3>Tecnologias</h3>
 ⚙️ HTML | CSS | JavaScript | React | Node.js | TypeScript | Bootstrap
 
-Soft Skills
+<h3>Soft Skills</h3>
 🤝 Trabalho em Equipe | Comunicação Efetiva | Resolução de Problemas | Criatividade | Proatividade
 
-Sobre Mim
+<h3>Sobre Mim</h3>
 🌟 Sou uma entusiasta da tecnologia, apaixonada por criar experiências. Estou sempre em busca de aprender e crescer como desenvolvedora. Vamos construir algo incrível juntos! 🌟
 
 
